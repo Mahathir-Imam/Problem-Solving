@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CODING_Practise.iml" filepath="$PROJECT_DIR$/.idea/CODING_Practise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeChef/CodeChef.iml" filepath="$PROJECT_DIR$/CodeChef/CodeChef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodechefContest/CodechefContest.iml" filepath="$PROJECT_DIR$/CodechefContest/CodechefContest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codeforces/Codeforces.iml" filepath="$PROJECT_DIR$/Codeforces/Codeforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DS_1_Study_LeetCode/DS_1_Study_LeetCode.iml" filepath="$PROJECT_DIR$/DS_1_Study_LeetCode/DS_1_Study_LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GCD_LCM/GCD_LCM.iml" filepath="$PROJECT_DIR$/GCD_LCM/GCD_LCM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GFG/GFG.iml" filepath="$PROJECT_DIR$/GFG/GFG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerEarth/HackerEarth.iml" filepath="$PROJECT_DIR$/HackerEarth/HackerEarth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern_Practice/Pattern_Practice.iml" filepath="$PROJECT_DIR$/Pattern_Practice/Pattern_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URI_Problem/URI_Problem.iml" filepath="$PROJECT_DIR$/URI_Problem/URI_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuf/tuf.iml" filepath="$PROJECT_DIR$/tuf/tuf.iml" />
+    </modules>
+  </component>
+</project>
